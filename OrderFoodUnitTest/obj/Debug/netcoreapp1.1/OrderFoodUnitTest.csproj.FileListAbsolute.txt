@@ -1,0 +1,62 @@
+\\line\users2\usersdef\dejcve\visual studio 2017\Projects\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+\\line\users2\usersdef\dejcve\visual studio 2017\Projects\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+\\line\users2\usersdef\dejcve\visual studio 2017\Projects\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\line\users2\usersdef\dejcve\visual studio 2017\Projects\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFoodUnitTest.deps.json
+\\line\users2\usersdef\dejcve\visual studio 2017\Projects\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFoodUnitTest.runtimeconfig.json
+\\line\users2\usersdef\dejcve\visual studio 2017\Projects\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFoodUnitTest.runtimeconfig.dev.json
+\\line\users2\usersdef\dejcve\visual studio 2017\Projects\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFoodUnitTest.dll
+\\line\users2\usersdef\dejcve\visual studio 2017\Projects\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFoodUnitTest.pdb
+\\line\users2\usersdef\dejcve\visual studio 2017\Projects\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFood.dll
+\\line\users2\usersdef\dejcve\visual studio 2017\Projects\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFood.pdb
+\\line\users2\usersdef\dejcve\visual studio 2017\Projects\OrderFood\OrderFoodUnitTest\obj\Debug\netcoreapp1.1\OrderFoodUnitTest.csprojResolveAssemblyReference.cache
+\\line\users2\usersdef\dejcve\visual studio 2017\Projects\OrderFood\OrderFoodUnitTest\obj\Debug\netcoreapp1.1\OrderFoodUnitTest.AssemblyInfo.cs
+\\line\users2\usersdef\dejcve\visual studio 2017\Projects\OrderFood\OrderFoodUnitTest\obj\Debug\netcoreapp1.1\OrderFoodUnitTest.dll
+\\line\users2\usersdef\dejcve\visual studio 2017\Projects\OrderFood\OrderFoodUnitTest\obj\Debug\netcoreapp1.1\OrderFoodUnitTest.pdb
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFoodUnitTest.deps.json
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFoodUnitTest.runtimeconfig.json
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFoodUnitTest.runtimeconfig.dev.json
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFoodUnitTest.dll
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFoodUnitTest.pdb
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFood.dll
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFood.pdb
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\OrderFoodUnitTest\obj\Debug\netcoreapp1.1\OrderFoodUnitTest.csprojResolveAssemblyReference.cache
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\OrderFoodUnitTest\obj\Debug\netcoreapp1.1\OrderFoodUnitTest.AssemblyInfo.cs
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\OrderFoodUnitTest\obj\Debug\netcoreapp1.1\OrderFoodUnitTest.dll
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\OrderFoodUnitTest\obj\Debug\netcoreapp1.1\OrderFoodUnitTest.pdb
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\Fridge.dll
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\Fridge.pdb
+S:\IT_Projects\Freight\WebBook\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+S:\IT_Projects\Freight\WebBook\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+S:\IT_Projects\Freight\WebBook\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+S:\IT_Projects\Freight\WebBook\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFoodUnitTest.deps.json
+S:\IT_Projects\Freight\WebBook\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFoodUnitTest.runtimeconfig.json
+S:\IT_Projects\Freight\WebBook\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFoodUnitTest.runtimeconfig.dev.json
+S:\IT_Projects\Freight\WebBook\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFoodUnitTest.dll
+S:\IT_Projects\Freight\WebBook\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFoodUnitTest.pdb
+S:\IT_Projects\Freight\WebBook\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\Fridge.dll
+S:\IT_Projects\Freight\WebBook\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFood.dll
+S:\IT_Projects\Freight\WebBook\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFood.pdb
+S:\IT_Projects\Freight\WebBook\OrderFood\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\Fridge.pdb
+S:\IT_Projects\Freight\WebBook\OrderFood\OrderFoodUnitTest\obj\Debug\netcoreapp1.1\OrderFoodUnitTest.csprojResolveAssemblyReference.cache
+S:\IT_Projects\Freight\WebBook\OrderFood\OrderFoodUnitTest\obj\Debug\netcoreapp1.1\OrderFoodUnitTest.AssemblyInfo.cs
+S:\IT_Projects\Freight\WebBook\OrderFood\OrderFoodUnitTest\obj\Debug\netcoreapp1.1\OrderFoodUnitTest.dll
+S:\IT_Projects\Freight\WebBook\OrderFood\OrderFoodUnitTest\obj\Debug\netcoreapp1.1\OrderFoodUnitTest.pdb
+C:\Temp\Factory10\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Temp\Factory10\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Temp\Factory10\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Temp\Factory10\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFoodUnitTest.deps.json
+C:\Temp\Factory10\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFoodUnitTest.runtimeconfig.json
+C:\Temp\Factory10\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFoodUnitTest.runtimeconfig.dev.json
+C:\Temp\Factory10\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFoodUnitTest.dll
+C:\Temp\Factory10\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFoodUnitTest.pdb
+C:\Temp\Factory10\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\Fridge.dll
+C:\Temp\Factory10\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFood.dll
+C:\Temp\Factory10\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\OrderFood.pdb
+C:\Temp\Factory10\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\Fridge.pdb
+C:\Temp\Factory10\OrderFoodUnitTest\obj\Debug\netcoreapp1.1\OrderFoodUnitTest.csprojResolveAssemblyReference.cache
+C:\Temp\Factory10\OrderFoodUnitTest\obj\Debug\netcoreapp1.1\OrderFoodUnitTest.AssemblyInfo.cs
+C:\Temp\Factory10\OrderFoodUnitTest\obj\Debug\netcoreapp1.1\OrderFoodUnitTest.dll
+C:\Temp\Factory10\OrderFoodUnitTest\obj\Debug\netcoreapp1.1\OrderFoodUnitTest.pdb

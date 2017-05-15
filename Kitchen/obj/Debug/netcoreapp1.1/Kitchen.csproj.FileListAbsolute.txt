@@ -1,0 +1,7 @@
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\Kitchen\bin\Debug\netcoreapp1.1\Kitchen.deps.json
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\Kitchen\bin\Debug\netcoreapp1.1\Kitchen.dll
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\Kitchen\bin\Debug\netcoreapp1.1\Kitchen.pdb
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\Kitchen\obj\Debug\netcoreapp1.1\Kitchen.csprojResolveAssemblyReference.cache
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\Kitchen\obj\Debug\netcoreapp1.1\Kitchen.AssemblyInfo.cs
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\Kitchen\obj\Debug\netcoreapp1.1\Kitchen.dll
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\Kitchen\obj\Debug\netcoreapp1.1\Kitchen.pdb

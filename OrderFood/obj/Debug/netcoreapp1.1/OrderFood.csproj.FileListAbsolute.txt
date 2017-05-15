@@ -1,0 +1,34 @@
+\\line\users2\usersdef\dejcve\visual studio 2017\Projects\OrderFood\OrderFood\bin\Debug\netcoreapp1.1\OrderFood.deps.json
+\\line\users2\usersdef\dejcve\visual studio 2017\Projects\OrderFood\OrderFood\bin\Debug\netcoreapp1.1\OrderFood.dll
+\\line\users2\usersdef\dejcve\visual studio 2017\Projects\OrderFood\OrderFood\bin\Debug\netcoreapp1.1\OrderFood.pdb
+\\line\users2\usersdef\dejcve\visual studio 2017\Projects\OrderFood\OrderFood\obj\Debug\netcoreapp1.1\OrderFood.csprojResolveAssemblyReference.cache
+\\line\users2\usersdef\dejcve\visual studio 2017\Projects\OrderFood\OrderFood\obj\Debug\netcoreapp1.1\OrderFood.AssemblyInfo.cs
+\\line\users2\usersdef\dejcve\visual studio 2017\Projects\OrderFood\OrderFood\obj\Debug\netcoreapp1.1\OrderFood.dll
+\\line\users2\usersdef\dejcve\visual studio 2017\Projects\OrderFood\OrderFood\obj\Debug\netcoreapp1.1\OrderFood.pdb
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\OrderFood\bin\Debug\netcoreapp1.1\OrderFood.deps.json
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\OrderFood\bin\Debug\netcoreapp1.1\OrderFood.dll
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\OrderFood\bin\Debug\netcoreapp1.1\OrderFood.pdb
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\OrderFood\obj\Debug\netcoreapp1.1\OrderFood.csprojResolveAssemblyReference.cache
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\OrderFood\obj\Debug\netcoreapp1.1\OrderFood.AssemblyInfo.cs
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\OrderFood\obj\Debug\netcoreapp1.1\OrderFood.dll
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\OrderFood\obj\Debug\netcoreapp1.1\OrderFood.pdb
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\OrderFood\bin\Debug\netcoreapp1.1\Fridge.dll
+\\line\Users1\UsersSTU\andhaa\Projects\Factor10TestApp\OrderFood\OrderFood\bin\Debug\netcoreapp1.1\Fridge.pdb
+S:\IT_Projects\Freight\WebBook\OrderFood\OrderFood\bin\Debug\netcoreapp1.1\OrderFood.deps.json
+S:\IT_Projects\Freight\WebBook\OrderFood\OrderFood\bin\Debug\netcoreapp1.1\OrderFood.dll
+S:\IT_Projects\Freight\WebBook\OrderFood\OrderFood\bin\Debug\netcoreapp1.1\OrderFood.pdb
+S:\IT_Projects\Freight\WebBook\OrderFood\OrderFood\bin\Debug\netcoreapp1.1\Fridge.dll
+S:\IT_Projects\Freight\WebBook\OrderFood\OrderFood\bin\Debug\netcoreapp1.1\Fridge.pdb
+S:\IT_Projects\Freight\WebBook\OrderFood\OrderFood\obj\Debug\netcoreapp1.1\OrderFood.csprojResolveAssemblyReference.cache
+S:\IT_Projects\Freight\WebBook\OrderFood\OrderFood\obj\Debug\netcoreapp1.1\OrderFood.AssemblyInfo.cs
+S:\IT_Projects\Freight\WebBook\OrderFood\OrderFood\obj\Debug\netcoreapp1.1\OrderFood.dll
+S:\IT_Projects\Freight\WebBook\OrderFood\OrderFood\obj\Debug\netcoreapp1.1\OrderFood.pdb
+C:\Temp\Factory10\OrderFood\bin\Debug\netcoreapp1.1\OrderFood.deps.json
+C:\Temp\Factory10\OrderFood\bin\Debug\netcoreapp1.1\OrderFood.dll
+C:\Temp\Factory10\OrderFood\bin\Debug\netcoreapp1.1\OrderFood.pdb
+C:\Temp\Factory10\OrderFood\bin\Debug\netcoreapp1.1\Fridge.dll
+C:\Temp\Factory10\OrderFood\bin\Debug\netcoreapp1.1\Fridge.pdb
+C:\Temp\Factory10\OrderFood\obj\Debug\netcoreapp1.1\OrderFood.csprojResolveAssemblyReference.cache
+C:\Temp\Factory10\OrderFood\obj\Debug\netcoreapp1.1\OrderFood.AssemblyInfo.cs
+C:\Temp\Factory10\OrderFood\obj\Debug\netcoreapp1.1\OrderFood.dll
+C:\Temp\Factory10\OrderFood\obj\Debug\netcoreapp1.1\OrderFood.pdb

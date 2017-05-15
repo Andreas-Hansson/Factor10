@@ -1,0 +1,9 @@
+C:\Temp\Factory10\OrderFood\bin\Debug\netcoreapp1.1\Kitchen.deps.json
+C:\Temp\Factory10\OrderFood\bin\Debug\netcoreapp1.1\Kitchen.dll
+C:\Temp\Factory10\OrderFood\bin\Debug\netcoreapp1.1\Kitchen.pdb
+C:\Temp\Factory10\OrderFood\bin\Debug\netcoreapp1.1\Fridge.dll
+C:\Temp\Factory10\OrderFood\bin\Debug\netcoreapp1.1\Fridge.pdb
+C:\Temp\Factory10\OrderFood\obj\Debug\netcoreapp1.1\Kitchen.csprojResolveAssemblyReference.cache
+C:\Temp\Factory10\OrderFood\obj\Debug\netcoreapp1.1\Kitchen.AssemblyInfo.cs
+C:\Temp\Factory10\OrderFood\obj\Debug\netcoreapp1.1\Kitchen.dll
+C:\Temp\Factory10\OrderFood\obj\Debug\netcoreapp1.1\Kitchen.pdb

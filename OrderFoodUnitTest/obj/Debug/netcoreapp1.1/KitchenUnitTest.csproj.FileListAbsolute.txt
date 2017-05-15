@@ -1,0 +1,16 @@
+C:\Temp\Factory10\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Temp\Factory10\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Temp\Factory10\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Temp\Factory10\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\KitchenUnitTest.deps.json
+C:\Temp\Factory10\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\KitchenUnitTest.runtimeconfig.json
+C:\Temp\Factory10\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\KitchenUnitTest.runtimeconfig.dev.json
+C:\Temp\Factory10\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\KitchenUnitTest.dll
+C:\Temp\Factory10\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\KitchenUnitTest.pdb
+C:\Temp\Factory10\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\Fridge.dll
+C:\Temp\Factory10\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\Kitchen.dll
+C:\Temp\Factory10\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\Kitchen.pdb
+C:\Temp\Factory10\OrderFoodUnitTest\bin\Debug\netcoreapp1.1\Fridge.pdb
+C:\Temp\Factory10\OrderFoodUnitTest\obj\Debug\netcoreapp1.1\KitchenUnitTest.csprojResolveAssemblyReference.cache
+C:\Temp\Factory10\OrderFoodUnitTest\obj\Debug\netcoreapp1.1\KitchenUnitTest.AssemblyInfo.cs
+C:\Temp\Factory10\OrderFoodUnitTest\obj\Debug\netcoreapp1.1\KitchenUnitTest.dll
+C:\Temp\Factory10\OrderFoodUnitTest\obj\Debug\netcoreapp1.1\KitchenUnitTest.pdb
