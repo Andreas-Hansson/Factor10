@@ -17,10 +17,4 @@ C:\Temp\Factory10\Fridge\obj\Debug\netcoreapp1.1\Fridge.dll
 C:\Temp\Factory10\Fridge\obj\Debug\netcoreapp1.1\Fridge.pdb
 C:\Temp\Factory10\Fridge\bin\Debug\netcoreapp1.1\Fridge.dll
 C:\Temp\Factory10\Fridge\bin\Debug\netcoreapp1.1\Fridge.pdb
-C:\Users\andhaa\Desktop\GitHub\Factor10\Fridge\bin\Debug\netcoreapp1.1\Fridge.deps.json
-C:\Users\andhaa\Desktop\GitHub\Factor10\Fridge\bin\Debug\netcoreapp1.1\Fridge.dll
-C:\Users\andhaa\Desktop\GitHub\Factor10\Fridge\bin\Debug\netcoreapp1.1\Fridge.pdb
-C:\Users\andhaa\Desktop\GitHub\Factor10\Fridge\obj\Debug\netcoreapp1.1\Fridge.csprojResolveAssemblyReference.cache
-C:\Users\andhaa\Desktop\GitHub\Factor10\Fridge\obj\Debug\netcoreapp1.1\Fridge.AssemblyInfo.cs
-C:\Users\andhaa\Desktop\GitHub\Factor10\Fridge\obj\Debug\netcoreapp1.1\Fridge.dll
-C:\Users\andhaa\Desktop\GitHub\Factor10\Fridge\obj\Debug\netcoreapp1.1\Fridge.pdb
+C:\Temp\Factory10\Fridge\obj\Debug\netcoreapp1.1\Fridge.csprojResolveAssemblyReference.cache

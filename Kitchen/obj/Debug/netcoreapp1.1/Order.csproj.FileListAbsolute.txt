@@ -9,14 +9,3 @@ C:\Temp\Factory10\Kitchen\bin\Debug\netcoreapp1.1\Kitchen.dll
 C:\Temp\Factory10\Kitchen\bin\Debug\netcoreapp1.1\Kitchen.pdb
 C:\Temp\Factory10\Kitchen\bin\Debug\netcoreapp1.1\Fridge.pdb
 C:\Temp\Factory10\Kitchen\obj\Debug\netcoreapp1.1\Order.csprojResolveAssemblyReference.cache
-C:\Users\andhaa\Desktop\GitHub\Factor10\Kitchen\bin\Debug\netcoreapp1.1\Order.deps.json
-C:\Users\andhaa\Desktop\GitHub\Factor10\Kitchen\bin\Debug\netcoreapp1.1\Order.dll
-C:\Users\andhaa\Desktop\GitHub\Factor10\Kitchen\bin\Debug\netcoreapp1.1\Order.pdb
-C:\Users\andhaa\Desktop\GitHub\Factor10\Kitchen\bin\Debug\netcoreapp1.1\Fridge.dll
-C:\Users\andhaa\Desktop\GitHub\Factor10\Kitchen\bin\Debug\netcoreapp1.1\Kitchen.dll
-C:\Users\andhaa\Desktop\GitHub\Factor10\Kitchen\bin\Debug\netcoreapp1.1\Kitchen.pdb
-C:\Users\andhaa\Desktop\GitHub\Factor10\Kitchen\bin\Debug\netcoreapp1.1\Fridge.pdb
-C:\Users\andhaa\Desktop\GitHub\Factor10\Kitchen\obj\Debug\netcoreapp1.1\Order.csprojResolveAssemblyReference.cache
-C:\Users\andhaa\Desktop\GitHub\Factor10\Kitchen\obj\Debug\netcoreapp1.1\Order.AssemblyInfo.cs
-C:\Users\andhaa\Desktop\GitHub\Factor10\Kitchen\obj\Debug\netcoreapp1.1\Order.dll
-C:\Users\andhaa\Desktop\GitHub\Factor10\Kitchen\obj\Debug\netcoreapp1.1\Order.pdb

@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Kitchen;
 using System.Linq;
@@ -12,9 +13,41 @@ namespace KitchenUnitTest
         private const string PancakeReceipt = "Pancake";
 
         [TestMethod]
+        public void AddReceiptPancake()
+        {
+            var service = new ReceiptService(new FakeFridgeItemRepository(), new FakeReceiptRepository());
+            var receipt = new Receipt();
+            var pancake = new Receipt { Name = PancakeReceipt };
+            var eggItem = new Item
+            {
+                Name = "Egg",
+                Quantity = new Quantity { Unit = "P", Total = 3 }
+            };
+            var milkItem = new Item
+            {
+                Name = "Milk",
+                Quantity = new Quantity { Unit = "L", Total = new decimal(0.7) }
+            };
+            var flourItem = new Item
+            {
+                Name = "Flour",
+                Quantity = new Quantity { Unit = "L", Total = new decimal(0.5) }
+            };
+            pancake.Ingredients.Add(eggItem);
+            pancake.Ingredients.Add(milkItem);
+            pancake.Ingredients.Add(flourItem);
+      
+            service.AddRecipt(receipt);
+
+            var result = service.GetReceipt(PancakeReceipt);
+
+            Assert.AreEqual(result.Name, PancakeReceipt);
+        }
+
+        [TestMethod]
         public void GetReceiptPancake()
         {
-            var service = new ReceiptService(new FakeFridgeItemRepository());
+            var service = new ReceiptService(new FakeFridgeItemRepository(), new FakeReceiptRepository());
             var result = service.GetReceipt(PancakeReceipt);
 
             Assert.AreEqual(result.Name, PancakeReceipt);
@@ -23,7 +56,7 @@ namespace KitchenUnitTest
         [TestMethod]
         public void DidNotFindReceipt()
         {
-            var service = new ReceiptService(new FakeFridgeItemRepository());
+            var service = new ReceiptService(new FakeFridgeItemRepository(), new FakeReceiptRepository());
             var result = service.GetReceipt("xxx");
 
             Assert.IsNull(result);
@@ -55,7 +88,7 @@ namespace KitchenUnitTest
 
 
 
-            var worker = new ReceiptService(fakeRep);
+            var worker = new ReceiptService(fakeRep, new FakeReceiptRepository());
             var result =  worker.PossibleToCook(worker.GetReceipt(PancakeReceipt));
 
             Assert.IsTrue(result);
@@ -87,7 +120,7 @@ namespace KitchenUnitTest
             };
             fakeRep.Items.Add(milkItem);
           
-            var worker = new ReceiptService(fakeRep);
+            var worker = new ReceiptService(fakeRep, new FakeReceiptRepository());
             var result = worker.PossibleToCook(worker.GetReceipt(PancakeReceipt));
 
             Assert.IsFalse(result);
@@ -129,7 +162,7 @@ namespace KitchenUnitTest
             };
             fakeRep.Items.Add(potatoItem);
 
-            var worker = new ReceiptService(fakeRep);
+            var worker = new ReceiptService(fakeRep, new FakeReceiptRepository());
             var result = worker.GetPossibleMeals();
 
             Assert.AreEqual(result.Count, 2);
@@ -174,7 +207,7 @@ namespace KitchenUnitTest
             };
             fakeRep.Items.Add(potatoItem);
 
-            var worker = new ReceiptService(fakeRep);
+            var worker = new ReceiptService(fakeRep, new FakeReceiptRepository());
             var result = worker.GetPossibleMeals();
 
             Assert.AreEqual(result.Count, 1);

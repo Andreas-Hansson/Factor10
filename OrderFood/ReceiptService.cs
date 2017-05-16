@@ -1,28 +1,29 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
+
 namespace Kitchen
 {
     public class ReceiptService
     {
         private readonly Fridge.IItemRepository _fridgeItemRepository;
+        private readonly IReceiptRepository _receiptRepository;
 
-        public ReceiptService(Fridge.IItemRepository fridgeItemRepository)
+        public ReceiptService(Fridge.IItemRepository fridgeItemRepository, IReceiptRepository receiptRepository)
         {
 
             _fridgeItemRepository = fridgeItemRepository;
+            _receiptRepository = receiptRepository;
         }
 
         public Receipt GetReceipt(string pancakeReceipt)
         {
-            var receipRep = new ReceiptRepository();
-            return receipRep.GetAllReceipts().FirstOrDefault(x => x.Name == pancakeReceipt);
+            return _receiptRepository.GetAllReceipts().FirstOrDefault(x => x.Name == pancakeReceipt);
         }
 
         public List<Availability> GetPossibleMeals()
         {
-            var receipRep = new ReceiptRepository();
-            return (from receipt in receipRep.GetAllReceipts() where PossibleToCook(receipt) select new Availability() {Meal = receipt.Name}).ToList();
+            return (from receipt in _receiptRepository.GetAllReceipts() where PossibleToCook(receipt) select new Availability() {Meal = receipt.Name}).ToList();
         }
 
         public bool PossibleToCook(Receipt receipt)
@@ -37,6 +38,10 @@ namespace Kitchen
             return true;
         }
 
+        public void AddRecipt(Receipt receipt)
+        {
+            _receiptRepository.Add(receipt);
+        }
     }
 
 }

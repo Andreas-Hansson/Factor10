@@ -1,17 +1,25 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 using Kitchen;
 
 namespace KitchenUnitTest
 {
-    class MockReceipt
+    public class FakeReceiptRepository:IReceiptRepository
     {
+
         public static string PancakeReceipt = "Pancake";
         public static string MeatballsAndPotatoRecept = "MeatballsAndPotato";
 
-        public List<Receipt> GetPanncakeAndMeatballs()
+        public List<Receipt> Receipts;
+
+        public FakeReceiptRepository()
         {
-            var receipts = new List<Receipt>();
+            Receipts = new List<Receipt>();
+        }
+        public List<Receipt> GetAllReceipts()
+        {
+            
             var pancake = new Receipt() { Name = PancakeReceipt };
             var eggItem = new Item
             {
@@ -31,7 +39,9 @@ namespace KitchenUnitTest
             pancake.Ingredients.Add(eggItem);
             pancake.Ingredients.Add(milkItem);
             pancake.Ingredients.Add(flourItem);
-            receipts.Add(pancake);
+
+
+            Receipts.Add(pancake);
 
             var meatballsAnPotato = new Receipt() { Name = MeatballsAndPotatoRecept };
             var meatItem = new Item
@@ -46,9 +56,14 @@ namespace KitchenUnitTest
             };
             meatballsAnPotato.Ingredients.Add(meatItem);
             meatballsAnPotato.Ingredients.Add(potatoItem);
-            receipts.Add(meatballsAnPotato);
+            Receipts.Add(meatballsAnPotato);
 
-            return receipts;
+            return Receipts;
+        }
+
+        public void Add(Receipt receipt)
+        {
+            Receipts.Add(receipt);
         }
     }
 }

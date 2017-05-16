@@ -7,5 +7,6 @@ namespace Kitchen
     public interface IReceiptRepository
     {
         List<Receipt> GetAllReceipts();
+        void Add(Receipt receipt);
     }
 }
