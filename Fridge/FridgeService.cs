@@ -33,5 +33,9 @@ namespace Fridge
             return items.FirstOrDefault(x => x.Name == item.Name).Quantity;
         }
 
+        public List<Item> GetAllItems()
+        {
+            return _repository.GetAll();
+        }
     }
 }
