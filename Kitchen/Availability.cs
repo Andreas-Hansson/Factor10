@@ -1,4 +1,4 @@
-﻿namespace Order
+﻿namespace Kitchen
 {
     public class Availability
     {

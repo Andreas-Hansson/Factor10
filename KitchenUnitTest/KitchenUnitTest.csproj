@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\OrderFood\Kitchen.csproj" />
+    <ProjectReference Include="..\Kitchen\Kitchen.csproj" />
   </ItemGroup>
 
   <ItemGroup>
