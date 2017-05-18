@@ -52,7 +52,7 @@ namespace Kitchen
                 response = await GetResponseContentAsync(client, request) as RestResponse;
             }).Wait();
 
-            var items = JsonConvert.DeserializeObject<List<Fridge.Item>>(response.Content);
+            var items = JsonConvert.DeserializeObject<List<Item>>(response.Content);
 
 
             foreach (var receiptItem in receipt.Ingredients)
