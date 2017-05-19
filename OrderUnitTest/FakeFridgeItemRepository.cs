@@ -1,31 +1,29 @@
 ﻿using System.Collections.Generic;
 using Kitchen;
-using IItemRepository = Fridge.IItemRepository;
-using Item = Fridge.Item;
 
 namespace KitchenUnitTest
 {
-    public class FakeFridgeItemRepository:IItemRepository
+    public class FakeFridgeItemRepository:IFridgeProxy
     {
         public FakeFridgeItemRepository()
         {
-            Items = new List<Item>();
+            Items = new List<FridgeItem>();
         }
 
-        public List<Item> Items ;
+        public List<FridgeItem> Items ;
         public List<Receipt> Recerecipes;
 
-        public List<Item> GetAll()
+        public List<FridgeItem> GetAll()
         {
             return Items;
         }
 
-        public void Add(Item item)
+        public void Add(FridgeItem item)
         {
             throw new System.NotImplementedException();
         }
 
-        public void Remove(Item item)
+        public void Remove(FridgeItem item)
         {
             throw new System.NotImplementedException();
         }

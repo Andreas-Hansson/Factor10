@@ -7,18 +7,18 @@ namespace Order
 {
     public class OrderService
     {
-        private readonly Fridge.IItemRepository _fridgeItemRepository;
+        private readonly IFridgeProxy _fridgeProxy;
         private readonly IReceiptRepository _receiptRepository;
 
-        public OrderService(Fridge.IItemRepository fridgeItemRepository, IReceiptRepository receiptRepository)
+        public OrderService(IFridgeProxy fridgeProxy, IReceiptRepository receiptRepository)
         {
-            _fridgeItemRepository = fridgeItemRepository;
+            _fridgeProxy = fridgeProxy;
             _receiptRepository = receiptRepository;
         }
 
         public List<Availability> GetAvailableMeals()
         {
-            var service = new ReceiptService(_fridgeItemRepository, _receiptRepository);
+            var service = new ReceiptService(_fridgeProxy, _receiptRepository);
             var possibleMeals = service.GetPossibleMeals();
             var availabilities = new List<Availability>();
             foreach (var meal in possibleMeals)

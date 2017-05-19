@@ -67,22 +67,22 @@ namespace KitchenUnitTest
         {
             var fakeRep = new FakeFridgeItemRepository();
 
-            var flourItem = new Fridge.Item
+            var flourItem = new FridgeItem
             {
                 Name = "Flour",
-                Quantity = new Fridge.Quantity() { Unit = "L", Total = 1 }
+                Quantity = new Quantity() { Unit = "L", Total = 1 }
             };
             fakeRep.Items.Add(flourItem);
-            var eggItem = new Fridge.Item
+            var eggItem = new FridgeItem
             {
                 Name = "Egg",
-                Quantity = new Fridge.Quantity() { Unit = "P", Total = 8 }
+                Quantity = new Quantity() { Unit = "P", Total = 8 }
             };
             fakeRep.Items.Add(eggItem);
-            var milkItem = new Fridge.Item
+            var milkItem = new FridgeItem
             {
                 Name = "Milk",
-                Quantity = new Fridge.Quantity() { Unit = "L", Total = 2 }
+                Quantity = new Quantity() { Unit = "L", Total = 2 }
             };
             fakeRep.Items.Add(milkItem);
 
@@ -101,22 +101,22 @@ namespace KitchenUnitTest
         
             var fakeRep = new FakeFridgeItemRepository();
 
-            var flourItem = new Fridge.Item
+            var flourItem = new FridgeItem
             {
                 Name = "Flour",
-                Quantity = new Fridge.Quantity() { Unit = "L", Total = 1 }
+                Quantity = new Quantity() { Unit = "L", Total = 1 }
             };
             fakeRep.Items.Add(flourItem);
-            var eggItem = new Fridge.Item
+            var eggItem = new FridgeItem
             {
                 Name = "Egg",
-                Quantity = new Fridge.Quantity() { Unit = "P", Total = 1 }
+                Quantity = new Quantity() { Unit = "P", Total = 1 }
             };
             fakeRep.Items.Add(eggItem);
-            var milkItem = new Fridge.Item
+            var milkItem = new FridgeItem
             {
                 Name = "Milk",
-                Quantity = new Fridge.Quantity() { Unit = "L", Total = 2 }
+                Quantity = new Quantity() { Unit = "L", Total = 2 }
             };
             fakeRep.Items.Add(milkItem);
           
@@ -131,34 +131,34 @@ namespace KitchenUnitTest
         {
             var fakeRep = new FakeFridgeItemRepository();
 
-            var flourItem = new Fridge.Item
+            var flourItem = new FridgeItem
             {
                 Name = "Flour",
-                Quantity = new Fridge.Quantity() { Unit = "L", Total = 1 }
+                Quantity = new Quantity() { Unit = "L", Total = 1 }
             };
             fakeRep.Items.Add(flourItem);
-            var eggItem = new Fridge.Item
+            var eggItem = new FridgeItem
             {
                 Name = "Egg",
-                Quantity = new Fridge.Quantity() { Unit = "P", Total = 8 }
+                Quantity = new Quantity() { Unit = "P", Total = 8 }
             };
             fakeRep.Items.Add(eggItem);
-            var milkItem = new Fridge.Item
+            var milkItem = new FridgeItem
             {
                 Name = "Milk",
-                Quantity = new Fridge.Quantity() { Unit = "L", Total = 2 }
+                Quantity = new Quantity() { Unit = "L", Total = 2 }
             };
             fakeRep.Items.Add(milkItem);
-            var meatItem = new Fridge.Item
+            var meatItem = new FridgeItem
             {
                 Name = "Meat",
-                Quantity = new Fridge.Quantity() { Unit = "KG", Total = 10 }
+                Quantity = new Quantity() { Unit = "KG", Total = 10 }
             };
             fakeRep.Items.Add(meatItem);
-            var potatoItem = new Fridge.Item
+            var potatoItem = new FridgeItem
             {
                 Name = "Potato",
-                Quantity = new Fridge.Quantity() { Unit = "KG", Total = 15 }
+                Quantity = new Quantity() { Unit = "KG", Total = 15 }
             };
             fakeRep.Items.Add(potatoItem);
 
@@ -176,34 +176,34 @@ namespace KitchenUnitTest
         {
             var fakeRep = new FakeFridgeItemRepository();
 
-            var flourItem = new Fridge.Item
+            var flourItem = new FridgeItem
             {
                 Name = "Flour",
-                Quantity = new Fridge.Quantity() { Unit = "L", Total = 1 }
+                Quantity = new Quantity() { Unit = "L", Total = 1 }
             };
             fakeRep.Items.Add(flourItem);
-            var eggItem = new Fridge.Item
+            var eggItem = new FridgeItem
             {
                 Name = "Egg",
-                Quantity = new Fridge.Quantity() { Unit = "P", Total = 8 }
+                Quantity = new Quantity() { Unit = "P", Total = 8 }
             };
             fakeRep.Items.Add(eggItem);
-            var milkItem = new Fridge.Item
+            var milkItem = new FridgeItem
             {
                 Name = "Milk",
-                Quantity = new Fridge.Quantity() { Unit = "L", Total = 2 }
+                Quantity = new Quantity() { Unit = "L", Total = 2 }
             };
             fakeRep.Items.Add(milkItem);
-            var meatItem = new Fridge.Item
+            var meatItem = new FridgeItem
             {
                 Name = "Meat",
-                Quantity = new Fridge.Quantity() { Unit = "KG", Total = 10 }
+                Quantity = new Quantity() { Unit = "KG", Total = 10 }
             };
             fakeRep.Items.Add(meatItem);
-            var potatoItem = new Fridge.Item
+            var potatoItem = new FridgeItem
             {
                 Name = "Potato",
-                Quantity = new Fridge.Quantity() { Unit = "KG", Total = 1 }
+                Quantity = new Quantity() { Unit = "KG", Total = 1 }
             };
             fakeRep.Items.Add(potatoItem);
 

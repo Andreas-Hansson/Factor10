@@ -10,13 +10,13 @@ namespace Kitchen
 {
     public class ReceiptService
     {
-        private readonly Fridge.IItemRepository _fridgeItemRepository;
+        private readonly IFridgeProxy _fridgeProxy;
         private readonly IReceiptRepository _receiptRepository;
 
-        public ReceiptService(Fridge.IItemRepository fridgeItemRepository, IReceiptRepository receiptRepository)
+        public ReceiptService(IFridgeProxy fridgeItemRepository, IReceiptRepository receiptRepository)
         {
 
-            _fridgeItemRepository = fridgeItemRepository;
+            _fridgeProxy = fridgeItemRepository;
             _receiptRepository = receiptRepository;
         }
 
@@ -32,28 +32,7 @@ namespace Kitchen
 
         public bool PossibleToCook(Receipt receipt)
         {
-            var items = _fridgeItemRepository.GetAll();
-
-            foreach (var receiptItem in receipt.Ingredients)
-            {
-                if (!items.Any(x => x.Name == receiptItem.Name && x.Quantity.Total >= receiptItem.Quantity.Total))
-                    return false;
-            }
-            return true;
-        }
-
-        public bool PossibleToCookAPI(Receipt receipt)
-        {
-            var client = new RestClient("http://localhost:51698/api");
-            var request = new RestRequest("item", Method.GET);
-            var response = new RestResponse();
-            Task.Run(async () =>
-            {
-                response = await GetResponseContentAsync(client, request) as RestResponse;
-            }).Wait();
-
-            var items = JsonConvert.DeserializeObject<List<Item>>(response.Content);
-
+            var items = _fridgeProxy.GetAll();
 
             foreach (var receiptItem in receipt.Ingredients)
             {
@@ -68,15 +47,6 @@ namespace Kitchen
             _receiptRepository.Add(receipt);
         }
 
-
-        public static Task<IRestResponse> GetResponseContentAsync(RestClient theClient, RestRequest theRequest)
-        {
-            var tcs = new TaskCompletionSource<IRestResponse>();
-            theClient.ExecuteAsync(theRequest, response => {
-                tcs.SetResult(response);
-            });
-            return tcs.Task;
-        }
     }
 
 }

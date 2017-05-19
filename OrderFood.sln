@@ -3,10 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fridge", "Fridge\Fridge.csproj", "{3DCEBB55-16A3-4015-B34E-B8D3B0DAA236}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FridgeUnitTest", "FridgeUnitTest\FridgeUnitTest.csproj", "{4D74F771-67ED-4D94-B9F4-1F4DF41BACE4}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kitchen", "Kitchen\Kitchen.csproj", "{172F104A-CBF4-4BA3-955E-C571281A368E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KitchenUnitTest", "KitchenUnitTest\KitchenUnitTest.csproj", "{A84D5F35-A998-4E83-907D-3095B565DA87}"
@@ -21,14 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3DCEBB55-16A3-4015-B34E-B8D3B0DAA236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3DCEBB55-16A3-4015-B34E-B8D3B0DAA236}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3DCEBB55-16A3-4015-B34E-B8D3B0DAA236}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3DCEBB55-16A3-4015-B34E-B8D3B0DAA236}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4D74F771-67ED-4D94-B9F4-1F4DF41BACE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4D74F771-67ED-4D94-B9F4-1F4DF41BACE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4D74F771-67ED-4D94-B9F4-1F4DF41BACE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4D74F771-67ED-4D94-B9F4-1F4DF41BACE4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{172F104A-CBF4-4BA3-955E-C571281A368E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{172F104A-CBF4-4BA3-955E-C571281A368E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{172F104A-CBF4-4BA3-955E-C571281A368E}.Release|Any CPU.ActiveCfg = Release|Any CPU

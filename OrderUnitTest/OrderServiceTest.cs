@@ -1,4 +1,5 @@
 using System;
+using Kitchen;
 using KitchenUnitTest;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Order;
@@ -13,22 +14,22 @@ namespace OrderUnitTest
         {
             var fakeFridgeItemRepository = new FakeFridgeItemRepository();
 
-            var flourItem = new Fridge.Item
+            var flourItem = new FridgeItem
             {
                 Name = "Flour",
-                Quantity = new Fridge.Quantity() { Unit = "L", Total = 1 }
+                Quantity = new Quantity() { Unit = "L", Total = 1 }
             };
             fakeFridgeItemRepository.Items.Add(flourItem);
-            var eggItem = new Fridge.Item
+            var eggItem = new FridgeItem
             {
                 Name = "Egg",
-                Quantity = new Fridge.Quantity() { Unit = "P", Total = 8 }
+                Quantity = new Quantity() { Unit = "P", Total = 8 }
             };
             fakeFridgeItemRepository.Items.Add(eggItem);
-            var milkItem = new Fridge.Item
+            var milkItem = new FridgeItem
             {
                 Name = "Milk",
-                Quantity = new Fridge.Quantity() { Unit = "L", Total = 2 }
+                Quantity = new Quantity() { Unit = "L", Total = 2 }
             };
             fakeFridgeItemRepository.Items.Add(milkItem);
             var fakeReceitRepostory = new FakeReceiptRepository();
