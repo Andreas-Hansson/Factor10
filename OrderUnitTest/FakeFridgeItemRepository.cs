@@ -11,7 +11,6 @@ namespace KitchenUnitTest
         }
 
         public List<FridgeItem> Items ;
-        public List<Receipt> Recerecipes;
 
         public List<FridgeItem> GetAll()
         {
